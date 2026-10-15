@@ -3,7 +3,7 @@
 A robust, terminal-based **Personal Money Tracker** written in C. It implements fundamental data structures—including **Linked Lists**, **Stacks**, and **Queues**—to deliver a functional finance management utility with local file persistence.
 
 ---
-
+     
 ## 🚀 Key Features
 
 * **Interactive Transaction Management:** Add money (income) and spend money (expense) with real-time balance tracking.
